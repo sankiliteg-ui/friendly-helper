@@ -66,7 +66,7 @@ function Index() {
         {/* Hero */}
         <header className="text-center">
           <p className="text-xs uppercase tracking-[0.4em] text-gold-soft/80 mb-3">
-            ✦ April 19 · A Special Day ✦
+            ✦ May 12 · A Special Day ✦
           </p>
           <h1
             className="text-shine leading-none"
